@@ -73,4 +73,5 @@ This repository is provided for educational purposes only. It does not promote f
 ### tags:
 alt="Solana memecoin creation tool CLI interface"
 solana token generator, create spl token, solana crypto tool, solana-meme-coin, solana-token-launch, solana-meme-coin-guide, solana-meme-coin-2025, how-to-launch-memecoin, solana-spl-token, solana-nft, solana-defi, solana-web3, solana-ecosystem, solana-crypto, solana-developer, solana-airdrop, solana-community, solana-dex, solana-wallet, solana-smart-contracts, solana-tutorial, solana-projects
+<meta name="google-site-verification" content="9mMkhbHPOkE_HbomaeBQo2QfQe5Yfd0a6l52qScZZyQ" />
 

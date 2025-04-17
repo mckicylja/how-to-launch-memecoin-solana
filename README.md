@@ -1,3 +1,5 @@
+# How to Launch a Memecoin on Solana | Open-Source Tool
+
 # 🚀 LAUNCH! Solana - Comprehensive Toolkit
 
 ![hd_unique (1)](https://github.com/user-attachments/assets/65187b5d-c89d-4a7c-91e6-8072dcd038b2)
@@ -32,20 +34,6 @@ LAUNCH! Solana is a versatile all-in-one tool designed for creating, configuring
 
 Free and open-source software for creating and managing your token on the Solana blockchain with comprehensive options.
 
-# 🔋 Under the Hood
-
-+ Language: Rust
-+ Compiled: Native '.exe' (Windows)
-+ Frameworks/Libraries: `solana-program`/`spl-token`/`raydium-amm-v4`
-
-## 📚 Documentation
-
-Complete usage guides and tutorials will be available soon in the [Wiki](https://github.com/mckicylja/how-to-launch-memecoin-solana/wiki)
-
-# 🛑 Disclaimer
-
-This tool is for educational purposes only. Use responsibly. Enjoy experimenting with your creations.
-
 # Features
 
 + Token name customization
@@ -56,3 +44,35 @@ This tool is for educational purposes only. Use responsibly. Enjoy experimenting
 + Token description customization
 + Creator data customization (website, name, etc.)
 + Token social media customization
+
+# 🔋 Under the Hood
+
++ Language: Rust
++ Compiled: Native '.exe' (Windows)
++ Frameworks/Libraries: `solana-program`/`spl-token`/`raydium-amm-v4`
+
+## 📚 Documentation
+
++ Complete usage guides and tutorials will be available soon in the [Wiki](https://github.com/mckicylja/how-to-launch-memecoin-solana/wiki)
++ [Solana SPL Token Program](https://spl.solana.com/token)
++ [Metaplex Token Metadata](https://developers.metaplex.com/token-metadata)
++ [Raydium Pools Docs](https://docs.raydium.io/raydium/pool-creation/creating-a-constant-product-pool)
++ [Solana CLI Reference](https://solana.com/docs/intro/installation)
++ [Anchor Framework Book](https://www.anchor-lang.com/docs)
+
+## Social networking & external links
+
++ [Medium](https://medium.com/@dhb24823/how-to-launch-a-memecoin-on-solan-d51830ed9836)
++ [Twitter post](https://x.com/cryptocom)
+
+## 🛑 Disclaimer
+
+This tool is for educational purposes only. Use responsibly. Enjoy experimenting with your creations.
+
+## Legal & Ethical Use
+This repository is provided for educational purposes only. It does not promote financial activity, speculation, or unregulated token issuance. Use responsibly and ensure you comply with your local laws, platform rules, and applicable regulations.
+
+### tags:
+alt="Solana memecoin creation tool CLI interface"
+solana token generator, create spl token, solana crypto tool, solana-meme-coin, solana-token-launch, solana-meme-coin-guide, solana-meme-coin-2025, how-to-launch-memecoin, solana-spl-token, solana-nft, solana-defi, solana-web3, solana-ecosystem, solana-crypto, solana-developer, solana-airdrop, solana-community, solana-dex, solana-wallet, solana-smart-contracts, solana-tutorial, solana-projects
+

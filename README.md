@@ -1,4 +1,4 @@
-# How to launch memecoin solana
+# 🚀 How to launch memecoin solana
 
 ![hd_unique (1)](https://github.com/user-attachments/assets/65187b5d-c89d-4a7c-91e6-8072dcd038b2)
 

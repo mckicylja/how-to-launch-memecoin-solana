@@ -1,6 +1,8 @@
-# 🚀 LAUNCH! Solana - Comprehensive Toolkit
+# How to launch memecoin solana
 
 ![hd_unique (1)](https://github.com/user-attachments/assets/65187b5d-c89d-4a7c-91e6-8072dcd038b2)
+
+# 🚀 LAUNCH! Solana - Comprehensive Toolkit
 
 LAUNCH! Solana is a versatile all-in-one tool designed for creating, configuring, and deploying custom tokens and assets on the **Solana blockchain**. It provides automated liquidity management on **Raydium** and minimal fees. Built with **Rust**, compiled into a single `.exe`, and ready for immediate use.
 
